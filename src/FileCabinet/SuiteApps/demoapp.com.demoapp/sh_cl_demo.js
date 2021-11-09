@@ -157,6 +157,8 @@ function(action, currency, runtime, search) {
      */
     function saveRecord(scriptContext) {
 
+        return true;
+
     }
 
     return {
